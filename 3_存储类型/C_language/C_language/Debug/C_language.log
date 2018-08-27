@@ -1,0 +1,3 @@
+﻿  源.cpp
+d:\material\c_project\c语言学习项目\3_存储类型\c_language\c_language\源.cpp(11): warning C4326: “main”的返回类型应为“int”而非“void”
+  C_language.vcxproj -> D:\Material\C_project\C语言学习项目\3_存储类型\C_language\Debug\C_language.exe

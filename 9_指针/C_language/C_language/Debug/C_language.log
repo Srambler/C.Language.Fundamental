@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\material\c_project\c语言学习项目\9_指针\c_language\c_language\源.cpp(6): warning C4244: “=”: 从“time_t”转换到“unsigned long”，可能丢失数据
+d:\material\c_project\c语言学习项目\9_指针\c_language\c_language\源.cpp(38): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“int *”
+d:\material\c_project\c语言学习项目\9_指针\c_language\c_language\源.cpp(52): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“int *”
+  C_language.vcxproj -> D:\Material\C_project\C语言学习项目\9_指针\C_language\Debug\C_language.exe

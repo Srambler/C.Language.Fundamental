@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\material\c_project\c语言学习项目\5_判断循环\c_language\c_language\源.cpp(2): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  d:\material\c_project\c语言学习项目\5_判断循环\c_language\c_language\源.cpp(2): note: 命令行参数: 参见前面的“_CRT_SECURE_NO_WARNINGS”定义
+  C_language.vcxproj -> D:\Material\C_project\C语言学习项目\5_判断循环\C_language\Debug\C_language.exe
